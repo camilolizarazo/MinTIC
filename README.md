@@ -8,7 +8,7 @@ Aca se cargaran los codigos de todos los ejercicios y retos realizados
 # Fund Programacion G52-53-54
 
 - _Ejercicios_
-1. [Ejercicio 1](https://github.com/camilolizarazo/MinTIC/tree/main/Fund%20Programacion%20G52-53-54)
+1. Ejercicio 1 [url](https://github.com/camilolizarazo/MinTIC/tree/main/Fund%20Programacion%20G52-53-54)
 2. Ejercicio 2
 3. Ejercicio 3 S2 
 4. Ejercicio 4

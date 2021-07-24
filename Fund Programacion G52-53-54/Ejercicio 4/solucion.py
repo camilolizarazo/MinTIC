@@ -6,6 +6,4 @@ def imprimir_suma():
         total = total +i
     return total
 
-
-print("Calculando la suma de los numeros de 300 hasta 5000")
 print(imprimir_suma())
